@@ -10,6 +10,6 @@
         <tcpOptions soReuseAddr="true"/>
     </httpEndpoint>
 
-    <application name="JavaHelloWorldApp" context-root="/JavaHelloWorldApp" location="${appLocation}" type="war"/>
+    <application name="FlowJs-Java-Bluemix" context-root="/FlowJs-Java-Bluemix" location="${appLocation}" type="war"/>
 
 </server>
