@@ -30,6 +30,8 @@ import it.sogei.ngflow.upload.HttpUtils;
  *
  * by fanxu123
  */
+
+@WebServlet("/upload")
 public class UploadServlet extends HttpServlet {
 
 	private static final long serialVersionUID = 1L;
