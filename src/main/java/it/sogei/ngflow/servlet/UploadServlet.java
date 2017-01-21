@@ -19,12 +19,6 @@ import it.sogei.ngflow.upload.FlowInfo;
 import it.sogei.ngflow.upload.FlowInfoStorage;
 import it.sogei.ngflow.upload.HttpUtils;
 
-
-
-
-
-
-
 /**
  *
  * This is a servlet demo, for using Flow.js to upload files.
